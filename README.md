@@ -1,8 +1,8 @@
 ## Discriminative Regression with Adaptive Graph Diffusion
 
-The details can be found in the our paper. 
+The details can be found in the [our paper](https://ieeexplore.ieee.org/document/9810839). 
 
-This code has been evaluated on Matlab.
+This code has been successfully evaluated on Matlab.
 
 #### Citation:
 
