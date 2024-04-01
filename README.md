@@ -15,7 +15,7 @@ J. Wen, L. Fei, Z. Zhang, B. Zhang, Z. Zhang, Y. Xu, Discriminative Regression w
   title={Discriminative Regression with Adaptive Graph Diffusion},
   author={Wen, Jie and Fei, Lunke and Zhang, Zheng and Zhang, Bob and Zhang, Zhao and Xu, Yong},
   journal={IEEE Transactions on Neural Networks and Learning Systems},
-  year={2022},
+  year={2024},
   publisher={IEEE}
 }
 ```
